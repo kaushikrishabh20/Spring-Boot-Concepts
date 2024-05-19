@@ -1,4 +1,4 @@
-package com.example.demo.CircularDependency.Lazt;
+package com.example.demo.CircularDependency.Lazy;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Lazy;
